@@ -134,4 +134,4 @@ class Incident(BaseModel):
             "mttr_minutes": self.mttr_minutes(),
         }
 
-# _r 20260525145409-7f35a512
+# _r 20260603103606-0fc40638
